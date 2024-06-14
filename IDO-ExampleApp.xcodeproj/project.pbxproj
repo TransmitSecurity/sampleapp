@@ -52,6 +52,7 @@
 		51E5E7582BE9265C00848D88 /* KeychainSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 51E5E7572BE9265C00848D88 /* KeychainSwift */; };
 		51E5E75B2BEAC50F00848D88 /* ConfigScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51E5E75A2BEAC50F00848D88 /* ConfigScreenViewController.xib */; };
 		51E5E75D2BEAC52B00848D88 /* ConfigScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E5E75C2BEAC52B00848D88 /* ConfigScreenViewController.swift */; };
+		51F8978C2C1C361900CE3D0B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 51F8978B2C1C361900CE3D0B /* README.md */; };
 		5E4DC09539514696B645FE45 /* FormPhoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18078585B7A24104B64EE6BF /* FormPhoneViewController.swift */; };
 		6131D815FCDC4090AE27A285 /* RejectAccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA9D97AA70643209E2E18E0 /* RejectAccessViewController.swift */; };
 		793DF1E4E0824EB6B0AFCC46 /* FormPhoneViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 61E152883E1A46CC8A054FE2 /* FormPhoneViewController.xib */; };
@@ -102,6 +103,7 @@
 		51B7D4442BFDE7D300EF7F6D /* IdentityVerificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentityVerificationViewController.swift; sourceTree = "<group>"; };
 		51E5E75A2BEAC50F00848D88 /* ConfigScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ConfigScreenViewController.xib; sourceTree = "<group>"; };
 		51E5E75C2BEAC52B00848D88 /* ConfigScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigScreenViewController.swift; sourceTree = "<group>"; };
+		51F8978B2C1C361900CE3D0B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		58DAC92FF86F4FC6A87B20DA /* FormEmailViewController.xib */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = file.xib; path = FormEmailViewController.xib; sourceTree = "<group>"; };
 		61E152883E1A46CC8A054FE2 /* FormPhoneViewController.xib */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = file.xib; path = FormPhoneViewController.xib; sourceTree = "<group>"; };
 		6E50A2A077164444BEFF9A17 /* FormEmailViewController.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; path = FormEmailViewController.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				153135C22B7E17B800427759 /* Assets.xcassets */,
 				153135C42B7E17B800427759 /* LaunchScreen.storyboard */,
 				153135C72B7E17B800427759 /* Info.plist */,
+				51F8978B2C1C361900CE3D0B /* README.md */,
 			);
 			path = "IDO-ExampleApp";
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 			files = (
 				153135C62B7E17B800427759 /* LaunchScreen.storyboard in Resources */,
 				155110EF2BB2F7FD00D2E1A2 /* TransmitSecurity.plist in Resources */,
+				51F8978C2C1C361900CE3D0B /* README.md in Resources */,
 				51E5E75B2BEAC50F00848D88 /* ConfigScreenViewController.xib in Resources */,
 				153135C32B7E17B800427759 /* Assets.xcassets in Resources */,
 				155110EE2BB2F7CE00D2E1A2 /* RiskRecommendationsViewController.xib in Resources */,
