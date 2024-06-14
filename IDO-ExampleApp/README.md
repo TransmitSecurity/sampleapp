@@ -30,7 +30,7 @@ To configure the application with your Transmit Security credentials, you need t
 
 Replace __[YOUR_CLIENT_ID_HERE]__ with your actual clientId provided by Transmit Security.
 
-###Application Journey Configuration
+### Application Journey Configuration
 
 The application's journey configurations are set in Settings.swift. Here, you can define journey IDs used for registration and authentication. The current settings are:
 
@@ -43,12 +43,12 @@ struct Settings {
 
 Ensure these values match the journey configurations set up in your Transmit Platform instance.
 
-##Getting Started
+## Getting Started
 
     Clone the Repository: Begin by cloning this repository to your local machine.
     Configure TransmitSecurity.plist: Update the TransmitSecurity.plist with your clientId as described above.
     Build and Run: Open the project in Xcode, build it, and run it on your simulator or a physical device.
 
-##Connecting with Transmit Security
+## Connecting with Transmit Security
 
 For access to a Transmit Platform instance or further assistance, please contact Transmit Security support or your account manager. Ensure you have the proper credentials and journey configurations in place before running the application.
