@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EDDEC12B-93FF-4213-B164-D6FDBE02267E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDEC2CB8-4254-4B68-A420-EBCC2164D2CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDO-ExampleApp/ViewControllers/EmailOTPAuthenticationViewController/EmailOTPAuthenticationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "submitButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDEC2CB8-4254-4B68-A420-EBCC2164D2CE - 2e4eb80efce319c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IDO_ExampleApp.EmailOTPAuthenticationViewController.initializeIdoSDK() -&gt; ()"
+                  moduleName = "IDO-ExampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorbabitski/Documents/Projects/transmit-iOS-samples/IdentityOrchestration/IDO-ExampleApp/IDO-ExampleApp/ViewControllers/EmailOTPAuthenticationViewController/EmailOTPAuthenticationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "BDEC2CB8-4254-4B68-A420-EBCC2164D2CE - f79b6a0233c93f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IDO_ExampleApp.EmailOTPAuthenticationViewController.submitButtonTapped() -&gt; ()"
+                  moduleName = "IDO-ExampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorbabitski/Documents/Projects/transmit-iOS-samples/IdentityOrchestration/IDO-ExampleApp/IDO-ExampleApp/ViewControllers/EmailOTPAuthenticationViewController/EmailOTPAuthenticationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "BDEC2CB8-4254-4B68-A420-EBCC2164D2CE - f79b6a0233c93f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IDO_ExampleApp.EmailOTPAuthenticationViewController.submitButtonTapped() -&gt; ()"
+                  moduleName = "IDO-ExampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorbabitski/Documents/Projects/transmit-iOS-samples/IdentityOrchestration/IDO-ExampleApp/IDO-ExampleApp/ViewControllers/EmailOTPAuthenticationViewController/EmailOTPAuthenticationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D37AE6C-5E0B-44E5-8ABB-BDF8E42349FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDO-ExampleApp/ViewControllers/SmsOTPAuthenticationViewController/SMSOTPAuthenticationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "submitButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E11A486-1246-449C-92AB-B870251ADF5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDO-ExampleApp/ViewControllers/SmsOTPAuthenticationViewController/SMSOTPAuthenticationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "submitButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E11A486-1246-449C-92AB-B870251ADF5F - 9ee49fce6189d5fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IDO_ExampleApp.SMSOTPAuthenticationViewController.submitButtonTapped() -&gt; ()"
+                  moduleName = "IDO-ExampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorbabitski/Documents/Projects/transmit-iOS-samples/IdentityOrchestration/IDO-ExampleApp/IDO-ExampleApp/ViewControllers/SmsOTPAuthenticationViewController/SMSOTPAuthenticationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "2E11A486-1246-449C-92AB-B870251ADF5F - 9ee49fce6189d5fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IDO_ExampleApp.SMSOTPAuthenticationViewController.submitButtonTapped() -&gt; ()"
+                  moduleName = "IDO-ExampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/igorbabitski/Documents/Projects/transmit-iOS-samples/IdentityOrchestration/IDO-ExampleApp/IDO-ExampleApp/ViewControllers/SmsOTPAuthenticationViewController/SMSOTPAuthenticationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "904851DD-5980-49C1-99BB-F3A54D01B877"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDO-ExampleApp/ViewControllers/SmsOTPAuthenticationViewController/SMSOTPAuthenticationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,60 @@
+{
+  "originHash" : "0af90572d01ae9b25f3f3d7f08fe6b9e841e038da6b3613b95b0741e6d0898c6",
+  "pins" : [
+    {
+      "identity" : "accountprotection-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TransmitSecurity/accountprotection-ios-sdk.git",
+      "state" : {
+        "revision" : "29c3e03a2db51a00b49175a7b8e56d8e445ccad3",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "authentication-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TransmitSecurity/authentication-ios-sdk.git",
+      "state" : {
+        "revision" : "ee2755df09083dc2d1a85ddf6043d39231590267",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "core-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TransmitSecurity/core-ios-sdk.git",
+      "state" : {
+        "revision" : "af015a0a0780230bb28e3b1c76e50661f12e34d8",
+        "version" : "1.0.22"
+      }
+    },
+    {
+      "identity" : "identityorchestration-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TransmitSecurity/identityOrchestration-ios-sdk.git",
+      "state" : {
+        "revision" : "54f41db033998896986a72494f0ce8ae45b71cea",
+        "version" : "1.1.4"
+      }
+    },
+    {
+      "identity" : "identityverification-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TransmitSecurity/identityVerification-ios-sdk",
+      "state" : {
+        "revision" : "631bc09f7fecf67353e6bc051eba6f72c7a299e0",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "keychain-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/evgenyneu/keychain-swift",
+      "state" : {
+        "revision" : "5e1b02b6a9dac2a759a1d5dbc175c86bd192a608",
+        "version" : "24.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
