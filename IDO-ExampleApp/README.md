@@ -26,7 +26,7 @@ To configure the application with your Transmit Security credentials, you need t
     </dict>
 </dict>
 </plist>
-
+```
 
 Replace __[YOUR_CLIENT_ID_HERE]__ with your actual clientId provided by Transmit Security.
 
@@ -39,6 +39,7 @@ struct Settings {
     static let regJourneyId = "Registration_Choice_uc1_or_uc2"
     static let authJourneyId = "mobile_journey_authentication"
 }
+```
 
 Ensure these values match the journey configurations set up in your Transmit Platform instance.
 
